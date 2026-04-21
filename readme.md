@@ -1,5 +1,5 @@
 
- <p align="center">Chào bạn, mình là Tiến Minh! 👋</p>
+ <p font-size = 24 align="center">Chào bạn, mình là Tiến Minh! 👋</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24A1FF&center=true&vCenter=true&width=500&lines=AI+Engineer+;Computer+Vision;Software+Developer" alt="Typing SVG" />
@@ -56,15 +56,6 @@ Tôi là **Tiến Minh**, hiện là sinh viên năm 3 chuyên ngành **Công ng
 #### 📈 Dự báo xu hướng giá Vàng
 * Thu thập dữ liệu thực tế và sử dụng hồi quy tuyến tính để dự đoán biến động thị trường.
 
----
-
-### 📊 Thống kê GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[username]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[username]&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Kết nối với mình
 <p align="left">
