@@ -8,7 +8,7 @@
 ---
 
 ### 🚀 Giới thiệu về mình
-Tôi là **Tiến Minh**, hiện là sinh viên năm 3 chuyên ngành **Công nghệ thông tin** tại **Đại học Thủy Lợi**. Với mục tiêu trở thành một kỹ sư AI chuyên nghiệp, tôi không ngừng trau dồi kiến thức về Machine Learning và Computer Vision, đồng thời áp dụng chúng vào các sản phẩm thực tiễn.
+Tôi là **Tiến Minh**, hiện là sinh viên chuyên ngành **Công nghệ thông tin** tại **Đại học Thủy Lợi**. Với mục tiêu trở thành một kỹ sư AI chuyên nghiệp, tôi không ngừng trau dồi kiến thức về Machine Learning và Computer Vision, đồng thời áp dụng chúng vào các sản phẩm thực tiễn.
 
 * 🔭 **Đang tập trung:** Tối ưu hóa hệ thống RAG và các mô hình thị giác máy tính.
 * 🌱 **Mục tiêu:** Tìm kiếm cơ hội thực tập tại các vị trí AI Intern/Software Engineer.
