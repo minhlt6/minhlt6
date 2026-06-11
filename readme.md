@@ -2,7 +2,7 @@
  <p font-size = 24 align="center">Chào bạn, mình là Tiến Minh! 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24A1FF&center=true&vCenter=true&width=500&lines=AI+Engineer+;Computer+Vision;Machine Learning Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=24A1FF&center=true&vCenter=true&width=500&lines=AI+Engineer+;Computer+Vision;Machine+Learning+Engineer" alt="Typing SVG" />
 </p>
 
 ---
