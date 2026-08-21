@@ -10,7 +10,7 @@
 Mình là **Tiến Minh**, sinh viên năm 3 chuyên ngành **Công nghệ thông tin** tại **Đại học Thủy Lợi**. Định hướng của mình là trở thành một **Kỹ sư AI (AI Engineer)**, với niềm đam mê mãnh liệt trong việc nghiên cứu và phát triển các hệ thống truy xuất thông tin (Information Retrieval), Deep Metric Learning, và Computer Vision.
 
 * 🔭 **Đang tập trung:** Tối ưu hóa các pipeline RAG (Hybrid Search, Cross-Encoder) và nghiên cứu các kiến trúc mô hình thị giác máy tính chuyên sâu.
-* 🌱 **Mục tiêu:** Ứng tuyển vị trí **AI Intern** để có cơ hội giải quyết các bài toán thực tế, xây dựng luồng dữ liệu (data pipelines) tối ưu và đưa mô hình AI triển khai lên môi trường production.
+* 🌱 **Mục tiêu:** Ứng tuyển vị trí **AI Engineer** để có cơ hội giải quyết các bài toán thực tế, xây dựng luồng dữ liệu (data pipelines) tối ưu và đưa mô hình AI triển khai lên môi trường production.
 * 💬 **Hỏi mình về:** PyTorch, RAG Systems, Vector Databases, Deep Learning architectures.
 * ⚡ **Sở thích:** Đá bóng ngoài trời và giải quyết các bài toán tối ưu thuật toán.
 
@@ -79,10 +79,12 @@ Mình là **Tiến Minh**, sinh viên năm 3 chuyên ngành **Công nghệ thôn
 ---
 
 ### 📊 Thống kê GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=minhlt6&show_icons=true&theme=transparent&hide_border=true&title_color=24A1FF&text_color=a6a6a6&icon_color=24A1FF" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhlt6&theme=transparent&hide_border=true&title_color=24A1FF&text_color=a6a6a6&icon_color=24A1FF" alt="GitHub Streak" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=minhlt6&layout=compact&theme=transparent&hide_border=true&title_color=24A1FF&text_color=a6a6a6" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=minhlt6&show_icons=true&theme=transparent&hide_border=true&title_color=24A1FF&text_color=a6a6a6&icon_color=24A1FF&hide_rank=true" alt="GitHub Stats" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhlt6&theme=transparent&hide_border=true&color=24A1FF&line=24A1FF&point=ffffff" alt="Activity Graph" width="100%" />
 </p>
 
 ---
